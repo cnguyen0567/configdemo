@@ -1,0 +1,2 @@
+#externalized application properties for different config clients
+example.property=Hello world
